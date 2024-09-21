@@ -3,7 +3,7 @@ import re
 
 # 设置目录路径
 directory_path = 'src'  # 替换为你的cpp文件目录
-output_file = 'REAMDE.md'  # 输出的Markdown文件
+output_file = 'README.md'  # 输出的Markdown文件
 pretext_file = 'README_PRE.md'
 
 with open(pretext_file, 'r', encoding='utf-8') as pre:
