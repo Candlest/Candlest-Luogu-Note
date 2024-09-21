@@ -33,7 +33,5 @@ int main(){
 }
 
 /*
-这是一道简单的结构体排序题目
-
-使用STL里面的 vector 和 stable_sort
+这是一道简单的结构体排序题目，使用STL里面的 `vector` 和 `stable_sort` 。
 */

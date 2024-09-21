@@ -35,11 +35,13 @@ int main(){
 }
 
 /*
-# Tips
-
-IO优化：
-std::cin.tie(0); //关闭 tie
-std::ios::sync_with_stdio(false); //不和 C 的 IO 混用
-
-初始化数组 array[m][n] = {0};
+#### IO优化
+```C++
+std::cin.tie(0); // 关闭 tie
+std::ios::sync_with_stdio(false); // 不和 C 的 IO 混用
+```
+#### 数组初始化
+```C++
+array[m][n] = {0}; // 初始化数组
+```
 */

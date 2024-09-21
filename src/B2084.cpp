@@ -14,10 +14,7 @@ int main(){
 }
 
 /*
-# 最优解
-from https://www.luogu.com.cn/record/163541460
-
-a=i, b=n/i
-
-若a*b=n则输出b <- 判断可以还原
+#### 分解质因数
+最优解[https://www.luogu.com.cn/record/163541460]
+a=i, b=n/i，若 a*b=n 则判断可以还原
 */
